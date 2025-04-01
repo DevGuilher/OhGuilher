@@ -1,5 +1,4 @@
-## Olá, Seja Bem-Vindo(a) ao meu perfil!
-### Eu me chamo Guilherme, e aqui você encontrará um pouco sobre meu trabalho
+## Olá, Seja Bem-Vindo(a) ao meu perfil! 💻
 
  <div>
    <a href="https://github.com/OhGuilher">
