@@ -15,7 +15,7 @@
  
 <br>
  
-### E não deixe de me seguir nas redes sociais ✔
+### Para mais informações, acesse minhas redes sociais. E não deixe de me seguir! ✔
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
